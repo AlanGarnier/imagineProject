@@ -42,6 +42,6 @@ class Welcome extends CI_Controller {
     }
     public function inscription()
     {
-        $this->load->view('register/register
-
+        $this->load->view('register/register');
+    }
 }

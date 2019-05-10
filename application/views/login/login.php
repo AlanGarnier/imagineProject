@@ -29,7 +29,7 @@ $this->load->view('header/header');
                                 </div>
                                 <div>
                                     <!-- Forgot password -->
-                                    <a href="">Forgot password?</a>
+                                    <a href="">Mot de passe oublié ?</a>
                                 </div>
                             </div>
 
