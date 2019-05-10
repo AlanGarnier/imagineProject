@@ -44,4 +44,8 @@ class Welcome extends CI_Controller {
     {
         $this->load->view('register/register');
     }
+    public function catalogue()
+    {
+        $this->load->view('catalogue/catalogue');
+    }
 }
